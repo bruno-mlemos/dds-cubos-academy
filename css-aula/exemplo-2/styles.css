@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2f3e4e;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    maring-left: 50px;
+}
+
+.menu ul {
+
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin l list-style: none;
+    background-color: #38495c;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
